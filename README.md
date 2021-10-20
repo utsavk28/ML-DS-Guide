@@ -1,5 +1,5 @@
 
-# ML & DS Guide
+# # ML & DS Guide
 Complied Resources for learning Machine Learning & Data Science 
 
 ## Table of Contents
@@ -133,6 +133,9 @@ Complied Resources for learning Machine Learning & Data Science
     -   [ ] [https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/](https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/)
     -   [ ] [https://www.machinelearningplus.com/machine-learning/feature-selection/](https://www.machinelearningplus.com/machine-learning/feature-selection/)
 -   [ ] Hyper Parameter Tuning 
+
+>  Read in Details about the ML Algorithms from Books mentioned below
+
 - [ ] Machine Learning Algorithms
 	 - [ ] Supervised ML Algorithms
 		 - [ ] Linear Regression:
