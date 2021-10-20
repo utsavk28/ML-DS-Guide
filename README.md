@@ -5,7 +5,7 @@ Complied Resources for learning Machine Learning & Data Science
 ## Table of Contents
 
  1. [Path/Guide](##Path/Guide)
- 2. [Projects Ideas , Guide & Tutorial](##Projects%20%20Ideas%20,%20Guide%20&%20Tutorial)
+ 2. [Projects Ideas , Guide & Tutorial](##Projects-Ideas-,-Guide-&-Tutorial)
  3. Online Course, Books & YT Playlists
  4. Commonly Used Websites and YT Channels
  5. Other’s Roadmap/Guides & Resources :
