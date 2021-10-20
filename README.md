@@ -169,7 +169,8 @@ Complied Resources for learning Machine Learning & Data Science
 	- [ ] [Streamlit](https://streamlit.io/)
 
 ### Final Projects :
-
+-   [ ] House Prices - Advanced Regression Techniques : [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+-   [ ] Titanic - Machine Learning from Disaster : [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)
 
 ## Projects  Ideas , Guide & Tutorial 
 1. [https://www.simplilearn.com/machine-learning-projects-for-beginners-article#1_movie_recommendations_with_movielens_dataset](https://www.simplilearn.com/machine-learning-projects-for-beginners-article#1_movie_recommendations_with_movielens_dataset)
