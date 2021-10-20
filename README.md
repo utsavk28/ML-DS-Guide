@@ -4,9 +4,9 @@ Complied Resources for learning Machine Learning & Data Science
 
 ## Table of Contents
 
- 1. [Path/Guide](##Path/Guide)
- 2. [Projects Ideas , Guide & Tutorial](##Projects-Ideas-,-Guide-&-Tutorial)
- 3. Online Course, Books & YT Playlists
+ 1. Path/Guide
+ 2. Projects Ideas , Guide & Tutorial
+ 3. Online Course, Books & YT Playlists :
  4. Commonly Used Websites and YT Channels
  5. Other’s Roadmap/Guides & Resources :
 
@@ -18,40 +18,45 @@ Complied Resources for learning Machine Learning & Data Science
 > [Main Topics & Detailed Syllabus](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b) :  
 > 
 
- - [ ] Linear Algebra :
-	 - [ ] Basic : https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
- - [ ] Calculus : 
-	 - [ ] Basic : https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
- - [ ] Probablility & Statistic : 
-	 - [ ] 1
+-   [ ] Linear Algebra :
+    -   [ ] [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    -   [ ] [https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#alg](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#alg)
+-   [ ] Calculus :
+    -   [ ] [https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+    -   [ ] [https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#cal](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#cal)
+-   [ ] Stats :
+    -   [ ] [https://www.youtube.com/watch?v=xxpc-HPKN28](https://www.youtube.com/watch?v=xxpc-HPKN28)
+    -   [ ] [https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#stats](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#stats)
+-   [ ] Probability :
+    -   [ ] [https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#prob](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#prob)
 
 ### Data Science Libs
 
 > Major/Imp Libs are Numpy, Pandas, Matplotlib, Seaborn,
 -   [ ] Numpy :
-    -   [ ] Video Tutorial: [](https://www.youtube.com/watch?v=QUT1VHiLmmI)[https://www.youtube.com/watch?v=QUT1VHiLmmI](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-    -   [ ] Practice: [](https://github.com/rougier/numpy-100)[https://github.com/rougier/numpy-100](https://github.com/rougier/numpy-100)
-    -   [ ] Docs: [](https://numpy.org/doc/)[https://numpy.org/doc/](https://numpy.org/doc/)
+    -   [ ] Video Tutorial: [https://www.youtube.com/watch?v=QUT1VHiLmmI](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+    -   [ ] Practice: [https://github.com/rougier/numpy-100](https://github.com/rougier/numpy-100)
+    -   [ ] Docs: [https://numpy.org/doc/](https://numpy.org/doc/)
  -   [ ] Pandas :
-	    -   [ ] Video Tutorial: [](https://www.youtube.com/watch?v=vmEHCJofslg)[https://www.youtube.com/watch?v=vmEHCJofslg](https://www.youtube.com/watch?v=vmEHCJofslg)
-	    -   [ ] Another Tutorial/Course with Practice labs: [](https://www.kaggle.com/learn/pandas)[https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
-	    -   [ ] Practice: [](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)[https://www.machinelearningplus.com/python/101-pandas-exercises-python/](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
-	    -   [ ] Docs: [](https://pandas.pydata.org/pandas-docs/stable/index.html#)[https://pandas.pydata.org/pandas-docs/stable/index.html#](https://pandas.pydata.org/pandas-docs/stable/index.html#)
+	    -   [ ] Video Tutorial: [https://www.youtube.com/watch?v=vmEHCJofslg](https://www.youtube.com/watch?v=vmEHCJofslg)
+	    -   [ ] Another Tutorial/Course with Practice labs: [https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
+	    -   [ ] Practice: [https://www.machinelearningplus.com/python/101-pandas-exercises-python/](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+	    -   [ ] Docs: [https://pandas.pydata.org/pandas-docs/stable/index.html#](https://pandas.pydata.org/pandas-docs/stable/index.html#)
  - [ ] Matplotlib :
-    -   [ ] Video Tutorial: [](https://www.youtube.com/watch?v=3Xc3CA655Y4)[https://www.youtube.com/watch?v=3Xc3CA655Y4](https://www.youtube.com/watch?v=3Xc3CA655Y4)
+    -   [ ] Video Tutorial: [https://www.youtube.com/watch?v=3Xc3CA655Y4](https://www.youtube.com/watch?v=3Xc3CA655Y4)
     -   [ ] Practice :
-        -   [ ] #1 : [](https://towardsdatascience.com/11-visualization-examples-to-practice-matplotlib-4fe4c7dd665c)[https://towardsdatascience.com/11-visualization-examples-to-practice-matplotlib-4fe4c7dd665c](https://towardsdatascience.com/11-visualization-examples-to-practice-matplotlib-4fe4c7dd665c)
-        -   [ ] #2 : [](https://pynative.com/python-matplotlib-exercise/)[https://pynative.com/python-matplotlib-exercise/](https://pynative.com/python-matplotlib-exercise/)
-    -   [ ] Docs : [](https://matplotlib.org/stable/index.html)[https://matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html)
+        -   [ ] #1 :[https://towardsdatascience.com/11-visualization-examples-to-practice-matplotlib-4fe4c7dd665c](https://towardsdatascience.com/11-visualization-examples-to-practice-matplotlib-4fe4c7dd665c)
+        -   [ ] #2 : [https://pynative.com/python-matplotlib-exercise/](https://pynative.com/python-matplotlib-exercise/)
+    -   [ ] Docs : [https://matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html)
  - [ ] Seaborn :
     -   [ ] Tutorial :
-        -   [ ] #1 : [](https://www.youtube.com/watch?v=6GUZXDef2U0)[https://www.youtube.com/watch?v=6GUZXDef2U0](https://www.youtube.com/watch?v=6GUZXDef2U0)
-        -   [ ] #2 : [](https://elitedatascience.com/python-seaborn-tutorial)[https://elitedatascience.com/python-seaborn-tutorial](https://elitedatascience.com/python-seaborn-tutorial)
+        -   [ ] #1 : [https://www.youtube.com/watch?v=6GUZXDef2U0](https://www.youtube.com/watch?v=6GUZXDef2U0)
+        -   [ ] #2 : [https://elitedatascience.com/python-seaborn-tutorial](https://elitedatascience.com/python-seaborn-tutorial)
     -   [ ] Practice :
-        -   [ ] #1 : [](https://www.kaggle.com/statchaitya/seaborn-practice-olympics-dataset)[https://www.kaggle.com/statchaitya/seaborn-practice-olympics-dataset](https://www.kaggle.com/statchaitya/seaborn-practice-olympics-dataset)
-        -   [ ] #2 : [](https://towardsdatascience.com/practical-data-analysis-with-pandas-and-seaborn-8fec3cb9cd16)[https://towardsdatascience.com/practical-data-analysis-with-pandas-and-seaborn-8fec3cb9cd16](https://towardsdatascience.com/practical-data-analysis-with-pandas-and-seaborn-8fec3cb9cd16)
-        -   [ ] #3 : [](https://www.kaggle.com/learn/data-visualization)[https://www.kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization)
-    -   [ ] Docs : [](https://seaborn.pydata.org/)[https://seaborn.pydata.org/](https://seaborn.pydata.org/)
+        -   [ ] #1 : [https://www.kaggle.com/statchaitya/seaborn-practice-olympics-dataset](https://www.kaggle.com/statchaitya/seaborn-practice-olympics-dataset)
+        -   [ ] #2 : [https://towardsdatascience.com/practical-data-analysis-with-pandas-and-seaborn-8fec3cb9cd16](https://towardsdatascience.com/practical-data-analysis-with-pandas-and-seaborn-8fec3cb9cd16)
+        -   [ ] #3 : [https://www.kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization)
+    -   [ ] Docs : [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
 
 ### Mini Project #1 
 
