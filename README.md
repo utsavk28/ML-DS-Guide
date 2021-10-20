@@ -1,5 +1,5 @@
 
-# ML Learning 
+# ML & DS Guide
 Complied Resources for learning Machine Learning & Data Science 
 
 ## Table of Contents
@@ -185,7 +185,10 @@ Complied Resources for learning Machine Learning & Data Science
 ## Online Course, Books & YT Playlists :
 
 ### Books :
-1.  ISLR: [https://www.youtube.com/c/dataschool/playlists?view=50&shelf_id=10](https://www.youtube.com/c/dataschool/playlists?view=50&shelf_id=10)
+1.  Introduction to Machine Learning with Python: A Guide for Data Scientists : [](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)[https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
+2.  Hands–On Machine Learning with Scikit–Learn and TensorFlow: [](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)[https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+3.  An Introduction to Statistical Learning: [](https://www.statlearning.com/)[https://www.statlearning.com/](https://www.statlearning.com/)
+4.  The Elements of Statistical Learning : [](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)[https://web.stanford.edu/~hastie/Papers/ESLII.pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 ### Courses : 
  1.  [https://developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
