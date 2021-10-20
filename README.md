@@ -1,5 +1,5 @@
 
-# # ML & DS Guide
+# ML & DS Guide
 Complied Resources for learning Machine Learning & Data Science 
 
 ## Table of Contents
