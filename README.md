@@ -18,7 +18,7 @@ Complied Resources for learning Machine Learning & Data Science
 > [Main Topics & Detailed Syllabus](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b) :  
 > 
 
--   [ ] Linear Algebra :
+-   [x] Linear Algebra :
     -   [ ] [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
     -   [ ] [https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#alg](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#alg)
 -   [ ] Calculus :
