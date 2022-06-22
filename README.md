@@ -107,9 +107,15 @@ Complied Resources for learning Machine Learning & Data Science
 
 ### Data Science Stuff
 -   [ ] Data Collection
-	- [ ] Existing DataSets
+	- [ ] DataSets :
+		- [ ] [PapersWithCode Datasets](https://paperswithcode.com/datasets)
+		- [ ] [Kaggle Datasets](https://www.kaggle.com/datasets) 
+		- [ ] [UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
+		- [ ] [Google Dataset Search](https://datasetsearch.research.google.com/)
+		- [ ] [AWS Open Data Search](https://registry.opendata.aws/)
+		- [ ] [Wiki's List of Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 	- [ ] API :
-		- [ ]  Tutorial
+		- [ ] [APIs for Beginners - How to use an API](https://www.youtube.com/watch?v=GZvSYJDk-us)
     -   [ ] Scraping :
         -   [ ] [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
         -   [ ] [Scrapy](https://scrapy.org/)
