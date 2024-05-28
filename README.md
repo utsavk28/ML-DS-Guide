@@ -200,7 +200,7 @@ Complied Resources for learning Machine Learning & Data Science
 -   [ ] [House Prices - Advanced Regression Techniques ](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 -   [ ] [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-## Projects  Ideas , Guide & Tutorial 
+## Projects  Ideas, Guide & Tutorial 
 1. [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 2. [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 3. [Simplilearn](https://www.simplilearn.com/machine-learning-projects-for-beginners-article)
@@ -209,6 +209,8 @@ Complied Resources for learning Machine Learning & Data Science
 6. [Upgrad](https://www.upgrad.com/blog/machine-learning-project-ideas-for-beginners/)
 7. [Crio](https://www.crio.do/projects/category/machine-learning-projects/)
 8. [Analyticsindiamag](https://analyticsindiamag.com/machine-learning-101-ten-projects-for-high-school-students-to-get-started/)
+9. [Scaler Blog](https://www.scaler.com/blog/)
+
 
 
 ## Online Course, Books & YT Playlists 
